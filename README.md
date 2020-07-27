@@ -2,7 +2,7 @@
 
 ### object
 1. creaste an object: const obj = {}; 
-2. property and value pair\
+2. property and value pair
     - obj.property === obj[property]
 3. function return object.
     function(){ \
